@@ -1,0 +1,45 @@
+.form-column{
+    padding: 15px;
+    /* background-color: #f4f7fa; */
+    border: 1px solid lightgray;
+    box-shadow: -5px 4px 30px 16px rgba(0, 0, 0, 0.005);
+-webkit-box-shadow: -5px 4px 30px 16px rgba(0,0,0,0.05);
+-moz-box-shadow: -5px 4px 30px 16px rgba(0,0,0,0.05);
+}
+
+.login-form{
+    padding: 20px;
+    padding-right: 40px;
+}
+
+.login-button{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 3vh !important;
+}
+
+.woocommerce-Button{
+    background-color: #20ad96;
+    width: 100%;
+}
+
+
+.woocommerce-Button:hover{
+    background-color:#fe7f00;
+    width: 100%;
+}
+
+
+.login-span{
+   color: #20ad96;
+   font-weight: 700;
+}
+
+.login-span:hover{
+  color:#fe7f00;
+}
+
+.woocommerce-Input{
+    padding-left: 10px;
+}

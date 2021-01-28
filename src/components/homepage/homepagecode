@@ -1,0 +1,695 @@
+  <div>
+        {/* Banner Section Start */}
+        <section className="banner-2 section-padding">
+          <div className="container">
+            <div className="row align-items-center">
+              <div className="col-md-12 col-xl-6 col-lg-6">
+                <div className="banner-content">
+                  <span className="subheading">Expert instruction</span>
+                  <h1>Convenient easy way of learning new skills!</h1>
+                  <p>The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail </p>
+                  <a href="#" className="btn btn-main">our Courses </a>  
+                </div>
+              </div>
+              <div className="col-md-12 col-xl-6 col-lg-6">
+                <div className="banner-img-round mt-5 mt-lg-0">
+                  <img src="assets/images/banner/hero-img.png" alt="" className="img-fluid" />
+                </div>
+              </div>
+            </div> {/* / .row */}
+          </div> {/* / .container */}
+        </section>
+        {/* Banner Section End */}
+        {/* Feature section start */}
+        <section className="feature-4">
+          <div className="container">
+            <div className="row ">
+              <div className="col-lg-4 col-md-6 col-xl-4 col-sm-6">
+                <div className="feature-item">
+                  <div className="feature-icon">
+                    <i className="flaticon-flag" />
+                  </div>
+                  <div className="feature-text">
+                    <h4>Expert Teacher</h4>
+                    <p>Develop skills for career of various majors including computer</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6 col-xl-4 col-sm-6">
+                <div className="feature-item">
+                  <div className="feature-icon">
+                    <i className="flaticon-layers" />
+                  </div>
+                  <div className="feature-text">
+                    <h4>Self Development</h4>
+                    <p>Develop skills for career of various majors including computer.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-4 col-md-6 col-xl-4 col-sm-6">
+                <div className="feature-item">
+                  <div className="feature-icon">
+                    <i className="flaticon-video-camera" />
+                  </div>
+                  <div className="feature-text">
+                    <h4>Remote Learning</h4>
+                    <p>Develop skills for career of various majors including language</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* Feature section End */}
+
+
+
+
+        
+        <section className="section-padding popular-course-list">
+          <div className="container">
+            <div className="row align-items-center justify-content-center">
+              <div className="col-lg-8 col-xl-8 col-md-8">
+                <div className="section-heading mb-sm-0">
+                  <span className="subheading">Trending Courses</span>
+                  <h3>Popular Online Courses Around You</h3>
+                  <p>The ultimate planning solution for
+                    busy women who want to reach their personal goals</p>
+                </div>
+              </div>
+              <div className="col-xl-4 col-lg-4  col-md-4">
+                <div className="text-md-right mb-5 mb-md-0">
+                  <a href="#" className="btn btn-main">All courses</a>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-lg-6 col-md-12">
+                <div className="course-block course-list-item">
+                  <div className="row align-items-center">
+                    <div className="col-lg-4 col-sm-4 ">
+                      <div className="course-img mb-4 mb-md-0">
+                        <img src="assets/images/course/course-sm1.jpg" alt="" className="img-fluid" />
+                      </div>
+                    </div>
+                    <div className="col-lg-8  col-sm-8">
+                      <div className="course-content">
+                        <div className="course-price ">$50 <del>$90</del></div>   
+                        <h4><a href="#">Information About UI/UX Design Degree</a></h4>    
+                        <div className="course-meta">
+                          <span className="course-author">By <a href="#">William</a></span>
+                          <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-6 col-md-12">
+                <div className="course-block course-list-item">
+                  <div className="row align-items-center">
+                    <div className="col-lg-4 col-sm-4">
+                      <div className="course-img mb-4 mb-md-0">
+                        <img src="assets/images/course/course-sm2.jpg" alt="" className="img-fluid" />
+                      </div>
+                    </div>
+                    <div className="col-lg-8  col-sm-8">
+                      <div className="course-content">
+                        <div className="course-price ">$80 <del>$100</del></div>   
+                        <h4><a href="#">Photography Crash Course for Photographer</a></h4>    
+                        <div className="course-meta">
+                          <span className="course-author">By <a href="#">William</a></span>
+                          <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-6 col-md-12">
+                <div className="course-block course-list-item">
+                  <div className="row align-items-center">
+                    <div className="col-lg-4  col-sm-4">
+                      <div className="course-img mb-4 mb-md-0">
+                        <img src="assets/images/course/course-sm3.jpg" alt="" className="img-fluid" />
+                      </div>
+                    </div>
+                    <div className="col-lg-8  col-sm-8">
+                      <div className="course-content">
+                        <div className="course-price ">$100 <del>$120</del></div>   
+                        <h4><a href="#">React – The Complete Guide (React Router)</a></h4>    
+                        <div className="course-meta">
+                          <span className="course-author">By <a href="#">William</a></span>
+                          <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-lg-6 col-md-12">
+                <div className="course-block course-list-item">
+                  <div className="row align-items-center">
+                    <div className="col-lg-4  col-sm-4">
+                      <div className="course-img mb-4 mb-md-0">
+                        <img src="assets/images/course/course-sm4.jpg" alt="" className="img-fluid" />
+                      </div>
+                    </div>
+                    <div className="col-lg-8  col-sm-8">
+                      <div className="course-content">
+                        <div className="course-price ">$180 <del>$190</del></div>   
+                        <h4><a href="#">WebCrash Course for Photographer</a></h4>    
+                        <div className="course-meta">
+                          <span className="course-author">By <a href="#">William</a></span>
+                          <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                        </div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+            <div className="row justify-content-center">
+              <div className="col-xl-6">
+                <div className="text-center mt-5">
+                  Take the control of their life back and start doing things to make their dream come true. <a href="course.html" className="font-weight-bold text-underline">View all courses </a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* About Section Start */}
+        <section className="about-section">
+          <div className="container">
+            <div className="row align-items-center justify-content-center">
+              <div className="col-xl-6 col-lg-6 col-md-12 col-sm-12">
+                <div className="row ">
+                  <div className="col-xl-6 col-lg-6  col-md-6 col-sm-6">
+                    <div className="about-imgbox">
+                      <img src="assets/images/bg/feature1.png" alt="" className="img-fluid" />
+                    </div>
+                    <div className="about-imgbox">
+                      <img src="assets/images/bg/feature2.png" alt="" className="img-fluid" />
+                    </div>
+                  </div>
+                  <div className="col-xl-6 col-lg-6 col-md-6 col-sm-6">
+                    <div className="about-imgbox mt-5">
+                      <img src="assets/images/bg/feature3.png" alt="" className="img-fluid" />
+                    </div>
+                    <div className="about-imgbox">
+                      <img src="assets/images/bg/about-img.jpg" alt="" className="img-fluid" />
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <div className="col-xl-6 col-lg-6">
+                <div className="section-heading pl-lg-5 ">
+                  <span className="subheading">Self Development Course</span>
+                  <h3>Get Instant Access To <span> Expert solution</span></h3>
+                  <p className="mb-4">The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail.Take the control of their life back and start doing things </p>
+                  <a href="#" className="btn btn-solid-border">Join Now</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* About Section End */}
+        {/*course category section start*/}
+        <section className="section-padding course-category">
+          <div className="container">
+            <div className="row align-items-center justify-content-center">
+              <div className="col-lg-7">
+                <div className="section-heading center-heading">
+                  <span className="subheading">Top Categories</span>
+                  <h3>Explore by category</h3>
+                  <p>The ultimate planning solution for
+                    busy women who want to reach their personal goals</p>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-xl-3 col-lg-3 col-md-6">
+                <div className="single-course-category cat-1">
+                  <h4><a href="#">Business </a> </h4>
+                  <p>21 courses</p>
+                </div>
+              </div>
+              <div className="col-xl-3 col-lg-3 col-md-6">
+                <div className="single-course-category cat-2">
+                  <h4><a href="#">Design</a></h4>
+                  <p>15 courses</p>
+                </div>
+              </div>
+              <div className="col-xl-3 col-lg-3 col-md-6">
+                <div className="single-course-category cat-3">
+                  <h4><a href="#">Web Development</a></h4>
+                  <p>12 courses</p>
+                </div>
+              </div>
+              <div className="col-xl-3 col-lg-3 col-md-6">
+                <div className="single-course-category cat-4">
+                  <h4><a href="#">Marketing</a></h4>
+                  <p>20 courses</p>
+                </div>
+              </div>
+              <div className="col-xl-3 col-lg-3 col-md-6">
+                <div className="single-course-category cat-2">
+                  <h4><a href="#">Management</a></h4>
+                  <p>15 courses</p>
+                </div>
+              </div>
+              <div className="col-xl-3 col-lg-3 col-md-6">
+                <div className="single-course-category cat-1">
+                  <h4><a href="#">App Development</a></h4>
+                  <p>21 courses</p>
+                </div>
+              </div>
+              <div className="col-xl-3 col-lg-3 col-md-6">
+                <div className="single-course-category cat-4">
+                  <h4><a href="#">SEO</a></h4>
+                  <p>20 courses</p>
+                </div>
+              </div>
+              <div className="col-xl-3 col-lg-3 col-md-6">
+                <div className="single-course-category cat-3">
+                  <h4><a href="#">Human Resource</a></h4>
+                  <p>12 courses</p>
+                </div>
+              </div>
+            </div>
+            <div className="row">
+              <div className="col-xl-12">
+                <div className="text-center mt-5">
+                  <a href="#" className="btn btn-solid-border">Explore All</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/*course section end*/}
+        {/*course section start*/}
+        <section className="section-padding course-grid bg-gray">
+          <div className="container">
+            <div className="row align-items-center justify-content-center">
+              <div className="col-lg-7">
+                <div className="section-heading center-heading">
+                  <span className="subheading">Trending Courses</span>
+                  <h3>Over 200+ New Online Courses</h3>
+                  <p>The ultimate planning solution for
+                    busy women who want to reach their personal goals</p>
+                </div>
+              </div>
+            </div>
+            <div className="text-center">
+              <ul className="course-filter">
+                <li className="active"><a href="#" data-filter="*"> All</a></li>
+                <li><a href="#" data-filter=".cat1">printing</a></li>
+                <li><a href="#" data-filter=".cat2">Web</a></li>
+                <li><a href="#" data-filter=".cat3">illustration</a></li>
+                <li><a href="#" data-filter=".cat4">media</a></li>
+                <li><a href="#" data-filter=".cat5">crafts</a></li>
+              </ul>
+            </div>
+            <div className="row course-gallery ">
+              <div className="course-item cat1 cat3 col-lg-4 col-md-6">
+                <div className="course-block">
+                  <div className="course-img">
+                    <img src="assets/images/course/course-1.jpg" alt="" className="img-fluid" />
+                    <div className="course-price2">$100</div>   
+                  </div>
+                  <div className="course-content">
+                    <div className="course-meta">
+                      <span className="course-student"><i className="fa fa-user-alt" />340 Students</span>
+                      <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                      <span className="course-label">new</span>
+                    </div>
+                    <h4><a href="#">React – The Complete Guide (React Router)</a></h4>    
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="course-item cat2 cat4 col-lg-4 col-md-6">
+                <div className="course-block">
+                  <div className="course-img">
+                    <img src="assets/images/course/course-2.jpg" alt="" className="img-fluid" />
+                    <div className="course-price2">$70</div>   
+                  </div>
+                  <div className="course-content">
+                    <div className="course-meta">
+                      <span className="course-student"><i className="fa fa-user-alt" />340 Students</span>
+                      <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                    </div>
+                    <h4><a href="#">Photography Crash Course for Photographer</a></h4>     
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="course-item cat5 cat2 col-lg-4 col-md-6">
+                <div className="course-block">
+                  <div className="course-img">
+                    <img src="assets/images/course/course-3.jpg" alt="" className="img-fluid" />
+                    <div className="course-price2">$160</div>   
+                  </div>
+                  <div className="course-content">
+                    <div className="course-meta">
+                      <span className="course-student"><i className="fa fa-user-alt" />340 Students</span>
+                      <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                    </div>
+                    <h4><a href="#">Information About UI/UX Design Degree</a></h4>       
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="course-item cat2 cat4 col-lg-4 col-md-6">
+                <div className="course-block">
+                  <div className="course-img">
+                    <img src="assets/images/course/course-2.jpg" alt="" className="img-fluid" />
+                    <div className="course-price2">$130</div>   
+                  </div>
+                  <div className="course-content">
+                    <div className="course-meta">
+                      <span className="course-student"><i className="fa fa-user-alt" />340 Students</span>
+                      <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                    </div>
+                    <h4><a href="#">Photography Crash Course for Photographer</a></h4>     
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="course-item cat1 cat3 col-lg-4 col-md-6">
+                <div className="course-block">
+                  <div className="course-img">
+                    <img src="assets/images/course/course-1.jpg" alt="" className="img-fluid" />
+                    <div className="course-price2">$200</div>   
+                  </div>
+                  <div className="course-content">
+                    <div className="course-meta">
+                      <span className="course-student"><i className="fa fa-user-alt" />340 Students</span>
+                      <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                      <span className="course-label">new</span>
+                    </div>
+                    <h4><a href="#">React – The Complete Guide (React Router)</a></h4>    
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                  </div>
+                </div>
+              </div>
+              <div className="course-item cat5 cat2 col-lg-4 col-md-6">
+                <div className="course-block">
+                  <div className="course-img">
+                    <img src="assets/images/course/course-3.jpg" alt="" className="img-fluid" />
+                    <div className="course-price2">$210</div>   
+                  </div>
+                  <div className="course-content">
+                    <div className="course-meta">
+                      <span className="course-student"><i className="fa fa-user-alt" />340 Students</span>
+                      <span className="course-duration"><i className="far fa-file-alt" />82 Lessons</span>
+                    </div>
+                    <h4><a href="#">Information About UI/UX Design Degree</a></h4>       
+                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quis, alias.</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/*course section end*/}
+        {/* Testimonial section start */}
+        <section className="testimonial-2 section-padding">
+          <div className="container">
+            <div className="row align-items-center justify-content-center">
+              <div className="col-lg-6 col-xl-5 mr-auto">
+                <div className="section-heading">
+                  <span className="subheading">Testimonials</span>
+                  <h3>Success Stories from person</h3>
+                  <p>The ultimate planning solution for busy women who want to reach their personal goals.Effortless comfortable eye-catching unique detail.Take the control of their life back</p>
+                  <p>Help you to get the best course that fits you <a href="#" className="text-underline d-block">Free Consultation <i className="fa fa-angle-right ml-2" /></a></p>
+                </div>
+              </div>
+              <div className="col-lg-6 col-xl-6">
+                <div className="testimonials-slides-2 owl-carousel owl-theme">
+                  <div className="testimonial-item">
+                    <i className="fa fa-quote-right" />
+                    <div className="client-info">
+                      <img src="assets/images/clients/test-1.jpg" alt="" className="img-fluid" />
+                      <div className="testionial-author">Jessica Smith - Amazon co.</div>
+                    </div>
+                    <div className="testimonial-info-title">
+                      <h4>One of the easiest online accounting systems we've tried.</h4>
+                    </div>
+                    <div className="testimonial-info-desc">
+                      People who build their own home tend to be very courageous. These people are curious about life.
+                    </div>
+                  </div>
+                  <div className="testimonial-item">
+                    <i className="fa fa-quote-right" />
+                    <div className="client-info">
+                      <img src="assets/images/clients/test-2.jpg" alt="" className="img-fluid" />
+                      <div className="testionial-author">Jessica Smith - Amazon co.</div>
+                    </div>
+                    <div className="testimonial-info-title">
+                      <h4>One of the easiest online accounting systems we've tried.</h4>
+                    </div>
+                    <div className="testimonial-info-desc">
+                      People who build their own home tend to be very courageous. These people are curious about life. 
+                    </div>
+                  </div>
+                  <div className="testimonial-item">
+                    <i className="fa fa-quote-right" />
+                    <div className="client-info">
+                      <img src="assets/images/clients/test-3.jpg" alt="" className="img-fluid" />
+                      <div className="testionial-author">Jessica Smith - Amazon co.</div>
+                    </div>
+                    <div className="testimonial-info-title">
+                      <h4>One of the easiest online accounting systems we've tried.</h4>
+                    </div>
+                    <div className="testimonial-info-desc">
+                      They're thinking about what it means to live in a house, rather than just buying a commodity and making it work.
+                    </div>
+                  </div>
+                  <div className="testimonial-item">
+                    <i className="fa fa-quote-right" />
+                    <div className="client-info">
+                      <img src="assets/images/clients/test-1.jpg" alt="" className="img-fluid" />
+                      <div className="testionial-author">Jessica Smith - Amazon co.</div>
+                    </div>
+                    <div className="testimonial-info-title">
+                      <h4>One of the easiest online accounting systems we've tried.</h4>
+                    </div>
+                    <div className="testimonial-info-desc">
+                      People who build their own home tend to be very courageous. These people are curious about life.
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* Testimonial section End */}
+        {/* COunter Section start */}
+        <section className="counter-block">
+          <div className="container">
+            <div className="row">
+              <div className="col-xl-12 bg-black counter-inner">
+                <div className="row">
+                  <div className="col-lg-3 col-md-6 col-sm-6">
+                    <div className="counter-item text-center">
+                      <i className="flaticon-video-camera" />
+                      <div className="count">
+                        <span className="counter">90</span>
+                      </div>
+                      <h6>Instructors</h6>
+                    </div>
+                  </div>
+                  <div className="col-lg-3 col-md-6 col-sm-6">
+                    <div className="counter-item text-center">
+                      <i className="flaticon-layers" />
+                      <div className="count">
+                        <span className="counter">1450</span>
+                      </div>
+                      <h6>Total Courses</h6>
+                    </div>
+                  </div>
+                  <div className="col-lg-3 col-md-6 col-sm-6">         
+                    <div className="counter-item text-center">
+                      <i className="flaticon-flag" />
+                      <div className="count">
+                        <span className="counter">5697</span>
+                      </div>
+                      <h6>Registered Enrolls</h6>
+                    </div>
+                  </div>
+                  <div className="col-lg-3 col-md-6 col-sm-6">
+                    <div className="counter-item text-center border-0">
+                      <i className="flaticon-help" />
+                      <div className="count">
+                        <span className="counter">100</span>%
+                      </div>
+                      <h6>Satisfaction rate</h6>     
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* COunter Section End */}
+        {/* Blog Section Start */}
+        <section className="blog-section section-padding">
+          <div className="container">
+            <div className="row align-items-center justify-content-center">
+              <div className="col-lg-7">
+                <div className="section-heading center-heading">
+                  <span className="subheading">Blog News</span>
+                  <h3>Latest From The Blog</h3>
+                  <p>The ultimate planning solution for
+                    busy women who want to reach their personal goals</p>
+                </div>
+              </div>
+            </div>
+            <div className="row">               
+              <div className="col-lg-4 col-xl-4 col-md-6 ">
+                <article className="blog-post-item">
+                  <div className="post-thumb">
+                    <img src="assets/images/blog/blog1.jpg" alt="" className="img-fluid" />
+                  </div>
+                  <div className="post-item mt-4">
+                    <div className="post-meta">
+                      <span className="post-author">Written by <a href="#">Admin</a></span>
+                      <span className="post-date"><i className="fa fa-calendar-alt mr-2" />May 9, 2020</span>
+                    </div>
+                    <h4 className="post-title"><a href="blog-single.html">How to become a best sale marketer in a month!</a></h4>
+                  </div>
+                </article>
+              </div>
+              <div className="col-lg-4 col-xl-4 col-md-6">
+                <article className="blog-post-item">
+                  <div className="post-thumb">
+                    <img src="assets/images/blog/blog2.jpg" alt="" className="img-fluid" />
+                  </div>
+                  <div className="post-item mt-4">
+                    <div className="post-meta">
+                      <span className="post-author">Written by <a href="#">Admin</a></span>
+                      <span className="post-date"><i className="fa fa-calendar-alt mr-2" />May 9, 2020</span>
+                    </div>
+                    <h4 className="post-title"><a href="blog-single.html">How to become a best sale marketer in a month!</a></h4>
+                  </div>
+                </article>
+              </div>
+              <div className="col-lg-4 col-xl-4 col-md-6">
+                <article className="blog-post-item">
+                  <div className="post-thumb">
+                    <img src="assets/images/blog/blog3.jpg" alt="" className="img-fluid" />
+                  </div>
+                  <div className="post-item mt-4">
+                    <div className="post-meta">
+                      <span className="post-author">Written by <a href="#">Admin</a></span>
+                      <span className="post-date"><i className="fa fa-calendar-alt mr-2" />May 9, 2020</span>
+                    </div>
+                    <h4 className="post-title"><a href="blog-single.html">How to become a best sale marketer in a month!</a></h4>
+                  </div>
+                </article>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* Blog Section End */}
+        {/* CTA Sidebar start */}
+        <section className="cta bg-gray section-padding">
+          <div className="container">
+            <div className="row align-items-center justify-content-center">
+              <div className="col-lg-7">
+                <div className="section-heading center-heading mb-0">
+                  <span className="subheading">be a instructor</span>
+                  <h3>Want to Become an Instructor ?</h3>
+                  <p className="mb-4">Join millions of people from around the world
+                    learning together. Online learning is as easy and
+                    natural as chatting.</p>
+                  <a href="#" className="btn btn-main">Become Instructor</a>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* CTA Sidebar end */}
+        {/* Footer section start */}
+        <section className="footer-2">
+          <div className="container">
+            <div className="row">
+              <div className="col-lg-3 col-sm-6 col-md-8 col-xl-3 col-sm-6">
+                <div className="widget footer-about mb-5 mb-lg-0">
+                  <h5 className="widget-title text-gray">About us</h5>
+                  <ul className="list-unstyled footer-info">
+                    <li><span>Ph:</span>+(68) 345 5902</li>
+                    <li><span>Email:</span><a href="http://themeturn.com/cdn-cgi/l/email-protection" className="__cf_email__" data-cfemail="8ee7e0e8e1cef7e1fbfceae1e3efe7e0a0ede1e3">[email&nbsp;protected]</a></li>
+                    <li><span>Location:</span> 123 Fifth Floor East 26th Street,
+                      New York, NY 10011</li>
+                  </ul>
+                  <ul className="list-inline footer-socials">
+                    <li className="list-inline-item">Follow us :</li>
+                    <li className="list-inline-item"><a href="#"><i className="fab fa-facebook-f" /></a></li>
+                    <li className="list-inline-item"> <a href="#"><i className="fab fa-twitter" /></a></li>
+                    <li className="list-inline-item"><a href="#"><i className="fab fa-linkedin" /></a></li>
+                    <li className="list-inline-item"><a href="#"><i className="fab fa-pinterest" /></a></li>
+                  </ul>
+                </div>
+              </div>
+              <div className="col-xl-7 ml-auto col-lg-7 col-md-12 col-sm-12">
+                <div className="row">
+                  <div className="col-lg-4 col-xl-4 col-sm-4 col-md-4 ">
+                    <div className="footer-widget mb-5 mb-lg-0">
+                      <h5 className="widget-title text-gray">Explore</h5>
+                      <ul className="list-unstyled footer-links">
+                        <li><a href="#">About us</a></li>
+                        <li><a href="#">Contact us</a></li>
+                        <li><a href="#">Services</a></li>
+                        <li><a href="#">Support</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-xl-4 col-sm-4 col-md-4">
+                    <div className="footer-widget mb-5 mb-lg-0">
+                      <h5 className="widget-title text-gray">Courses</h5>
+                      <ul className="list-unstyled footer-links">
+                        <li><a href="#">SEO Business</a></li>
+                        <li><a href="#">Digital Marketing</a></li>
+                        <li><a href="#">Graphic Design</a></li>
+                        <li><a href="#">Social Marketing</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                  <div className="col-lg-4 col-xl-4 col-sm-4 col-md-4">
+                    <div className="footer-widget mb-5 mb-lg-0">
+                      <h5 className="widget-title text-gray">Legal</h5>
+                      <ul className="list-unstyled footer-links">
+                        <li><a href="#">Terms &amp; Condition</a></li>
+                        <li><a href="#">Privacy policy</a></li>
+                        <li><a href="#">Return policy</a></li>
+                      </ul>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+          <div className="footer-btm">
+            <div className="container">
+              <div className="row justify-content-center align-items-center">
+                <div className="col-xl-6 col-lg-4 col-md-12">
+                  <div className="footer-logo text-lg-left text-center mb-4 mb-lg-0">
+                    <img src="assets/images/light-logo.png" alt="EduHash" className="img-fluid" />
+                  </div>
+                </div>
+                <div className="col-xl-6 col-lg-8 col-md-12">
+                  <div className="copyright text-lg-right text-center">
+                    <p>© Copyright EduHash Template All rights reserved.Crafted by <a href="https://themeturn.com/">Dreambuzz</a> </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+        {/* Footer section End */}
+        <div className="fixed-btm-top">
+          <a href="#top-header" className="js-scroll-trigger scroll-to-top"><i className="fa fa-angle-up" /></a>
+        </div>
+      </div>
